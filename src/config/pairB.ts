@@ -3,7 +3,7 @@
  * Replace the URL below with your friend's live Vercel link!
  */
 export const PAIR_B_BASE_URL =
-  import.meta.env.VITE_PAIR_B_URL || 'https://YOUR-FRIENDS-SITE.vercel.app';
+  import.meta.env.VITE_PAIR_B_URL || 'https://kitkat-eight.vercel.app';
 
 /**
  * 1. Opens Pair B's Whole Website (Navbar "ENTER DOMAIN" button)
