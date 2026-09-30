@@ -188,8 +188,8 @@ const Navbar: React.FC<NavbarProps> = ({ onSearchOpen }) => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.45 }}
             >
-              <Zap size={14} className="text-white fill-cursed-red" />
-              ENTER DOMAIN 領域展開
+              <Zap size={20} className="text-white fill-cursed-red" />
+              REGISTER 領域展開
             </motion.button>
           </motion.div>
         )}
